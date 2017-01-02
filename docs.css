@@ -8,3 +8,9 @@
 hr.doc {
     margin: 0;
 }
+
+xmp {
+    background: #eee;
+    border-left: 2px solid #69c;
+    overflow: auto;
+}
