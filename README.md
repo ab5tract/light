@@ -1,10 +1,17 @@
-# light.css
+# [Light](http://cquanu.github.io/light.css/)
+
 Ultra Lightweight CSS Framework
 
-## Component
+## Components/Roadmap
 
-- Navbar
-- Buttons
-    - Btn
+- [] Navbar
+- [] Buttons
+    - Light
     - Dark
-    - Primary
+    - Action
+- [] Grid
+- [] Card
+- [] Banner
+- [] Images
+- [] Sitewide Dark Mode
+- [] Footer
