@@ -5,7 +5,9 @@
  * Licensed under MIT (https://github.com/cquanu/light.css/blob/master/LICENSE)
 */
 
-* {
+*,
+*:before,
+*:after {
     box-sizing: border-box;
 }
 
@@ -85,10 +87,6 @@ h6 {
 
 /* Navbar */
 
-.container nav li:first-child {
-    margin-left: -10px;
-}
-
 nav {
     list-style: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
@@ -97,13 +95,23 @@ nav {
     overflow-x: scroll;
 }
 
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
 nav li {
     display: inline-block;
 }
 
 nav li a {
-    margin: 20px 10px;
+    padding: 20px 10px;
     display: inline-block;
+}
+
+nav ul li.brand {
+    padding-right: 20px;
+    border-right: 1px solid #ccc;
 }
 
 ::-webkit-scrollbar {
@@ -119,6 +127,7 @@ nav li a {
     border-radius: 3px;
     background: #fff;
     color: #333;
+    margin: 10px 0;
 }
 
 .btn-dark {
@@ -127,6 +136,7 @@ nav li a {
     border-radius: 3px;
     background: #333;
     color: white;
+    margin: 10px 0;
 }
 
 .btn-action {
@@ -135,6 +145,7 @@ nav li a {
     border-radius: 3px;
     background: #329af0;
     color: white;
+    margin: 10px 0;
 }
 
 
@@ -158,4 +169,8 @@ hr {
 
 .text-center {
     text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
 }
