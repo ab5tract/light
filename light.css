@@ -1438,10 +1438,10 @@ template {
 }
 
 
-/* Start of Light */
-
-
-/* Gobal */
+/* 
+ * Start of Light 
+ * Global
+*/
 
 body {
     font-size: 1rem;
@@ -1569,29 +1569,26 @@ nav li a {
 
 /* Buttons */
 
-.btn {
-    padding: 8px 12px;
+.btn-light {
+    padding: 6px 14px;
     border: 1px solid rgba(0, 0, 0, .25);
     border-radius: 3px;
     background: #fff;
     color: #333;
-    display: inline-block;
-}
-
-.btn-primary {
-    padding: 8px 12px;
-    border: 1px solid rgba(0, 0, 0, .2);
-    border-radius: 3px;
-    background: #0f5693;
-    color: white;
-    display: inline-block;
 }
 
 .btn-dark {
-    padding: 8px 12px;
+    padding: 6px 14px;
     border: 1px solid rgba(0, 0, 0, .2);
     border-radius: 3px;
     background: #333;
     color: white;
-    display: inline-block;
+}
+
+.btn-action {
+    padding: 6px 14px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 3px;
+    background: #329af0;
+    color: white;
 }
