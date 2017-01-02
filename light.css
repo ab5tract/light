@@ -123,6 +123,7 @@ nav ul li.brand {
 
 a[class*="btn"] {
     display: inline-block;
+    margin-top: 0;
 }
 
 .btn-light {
