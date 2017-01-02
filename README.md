@@ -4,14 +4,14 @@ Ultra Lightweight CSS Framework
 
 ## Components/Roadmap
 
-- [] Navbar
-- [] Buttons
+- Navbar
+- Buttons
     - Light
     - Dark
     - Action
-- [] Grid
-- [] Card
-- [] Banner
-- [] Images
-- [] Sitewide Dark Mode
-- [] Footer
+- Grid
+- Card
+- Banner
+- Images
+- Sitewide Dark Mode
+- Footer
