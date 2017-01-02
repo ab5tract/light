@@ -111,7 +111,7 @@ nav li a {
 
 nav ul li.brand {
     padding-right: 20px;
-    border-right: 1px solid #ccc;
+    border-right: 1px solid rgba(0, 0, 0, .3);
 }
 
 ::-webkit-scrollbar {
@@ -150,6 +150,11 @@ a[class*="btn"] {
     background: #329af0;
     color: white;
     margin: 10px 0;
+}
+
+.disabled {
+    cursor: not-allowed;
+    opacity: .8;
 }
 
 
