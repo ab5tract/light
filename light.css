@@ -564,7 +564,7 @@ hr {
 }
 
 
-/* Text */
+/*  Texts */
 
 .text-header {
     display: table;
@@ -572,6 +572,9 @@ hr {
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
+
+
+/* Utilities */
 
 .text-left {
     text-align: left;
@@ -587,4 +590,8 @@ hr {
 
 .text-justify {
     text-align: justify;
+}
+
+.no-radius {
+    border-radius: 0;
 }
