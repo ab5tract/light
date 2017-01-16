@@ -656,6 +656,36 @@ footer {
     text-align: center;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
     background: #eee;
+    position: relative;
+}
+
+.notice .dismissal {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #9E9E9E;
+    background: #E0E0E0;
+    margin: 10px 0;
+    color: #757575;
+    position: absolute;
+    right: 40px;
+    font-size: 14px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    vertical-align: middle;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    top: 0;
+    cursor: pointer;
+}
+
+#dismiss:target {
+    display: none;
 }
 
 
