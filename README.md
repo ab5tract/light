@@ -28,8 +28,8 @@ Basic web components with no Javascript.
     - Outlined
 
 - Navbar
-    - Large (Big Paddings) [WIP] (Started)
-    - Medium (Medium Paddings) [WIP] (Started)
+    - Large (Big Paddings) (Started) [WIP]
+    - Medium (Medium Paddings) (Started) [WIP]
     - Scrollable (No Toggles) [WIP]
     - Normal (Static with Toggles) [WIP]
     - Fixed (Sticky)
@@ -76,7 +76,7 @@ Basic web components with no Javascript.
 - Modal
     - Popover
     - Overlay
-    - DiDismissal
+    - Dismissal
 
 - Gallery/Carousel/Silder/Banner
 
@@ -87,6 +87,7 @@ Basic web components with no Javascript.
 - Master Group (Notify Function)
     - Modal
     - Notice
+    - (Dismissing all one dismissible item will dismiss all at the same time)
 
 - Check Font Consistency
 - Check Border Consistency

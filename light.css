@@ -868,6 +868,13 @@ textarea {
     z-index: 100;
 }
 
+#open-modal:before {
+    height: 100vh;
+    background: #000;
+    position: absolute;
+    content: "";
+}
+
 .modal .dismissal {
     width: 25px;
     height: 25px;
