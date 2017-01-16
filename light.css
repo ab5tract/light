@@ -842,8 +842,8 @@ textarea {
 
 /* Label */
 
-.label-light {
-    padding: 4px;
-    background: #bdbdbd;
+.label {
+    padding: 4px 8px;
+    background: #e0e0e0;
     font-size: small;
 }
