@@ -36,7 +36,6 @@ h1 {
 figcaption,
 figure,
 main {
-    /* 1 */
     display: block;
 }
 
@@ -67,11 +66,8 @@ a:hover {
 
 abbr[title] {
     border-bottom: none;
-    /* 1 */
     text-decoration: underline;
-    /* 2 */
     text-decoration: underline dotted;
-    /* 2 */
 }
 
 b,
@@ -88,9 +84,7 @@ code,
 kbd,
 samp {
     font-family: monospace, monospace;
-    /* 1 */
     font-size: 1em;
-    /* 2 */
 }
 
 dfn {
@@ -146,13 +140,9 @@ optgroup,
 select,
 textarea {
     font-family: sans-serif;
-    /* 1 */
     font-size: 100%;
-    /* 1 */
     line-height: 1.15;
-    /* 1 */
     margin: 0;
-    /* 2 */
 }
 
 button,
@@ -411,6 +401,7 @@ nav ul li.brand {
 a[class*="btn"] {
     display: inline-block;
     margin-top: 0;
+    margin-bottom: 15px;
 }
 
 .btn-light {
