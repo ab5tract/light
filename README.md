@@ -76,6 +76,7 @@ Basic web components with no Javascript.
 - Modal
     - Popover
     - Overlay
+    - Full Size (Default)
     - Dismissal
 
 - Gallery/Carousel/Silder/Banner
