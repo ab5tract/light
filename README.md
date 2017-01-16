@@ -1,6 +1,6 @@
 # [Light](http://cquanu.github.io/light.css/)
 
-Ultra Lightweight CSS Framework
+Ultra Lightweight CSS Framework.
 
 ## Install
 
