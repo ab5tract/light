@@ -2,7 +2,14 @@
 
 Ultra Lightweight CSS Framework
 
-## Components/Todo List/Roadmap
+## Install
+
+```
+<link rel="stylesheet" href="light.css">
+    
+```
+
+## Components / Todo List / Roadmap
 
 - Navbar
     - Large (More Paddings)
