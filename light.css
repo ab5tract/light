@@ -282,8 +282,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin-top: 0;
-    margin-bottom: 18px;
+    margin: 0;
 }
 
 p {
@@ -542,7 +541,8 @@ hr {
 /* Text */
 
 .text-header {
-    display: inline-block;
+    display: table;
     border-bottom: 2px solid #bdbdbd;
     padding-bottom: 5px;
+    margin-bottom: 15px;
 }
