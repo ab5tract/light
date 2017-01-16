@@ -478,6 +478,10 @@ nav.dark ul li.brand {
     border-right: 1px solid rgba(255, 255, 255, 0.25);
 }
 
+nav.large {
+    padding: 8px 0;
+}
+
 
 /* Buttons */
 

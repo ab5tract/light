@@ -11,9 +11,9 @@ Ultra Lightweight CSS Framework
 ## Components / Todo List / Roadmap
 
 - Navbar
-    - Large (More Paddings)
-    - Scrollable (No Toggles)
-    - Normal (Static with Toggles)
+    - Large (More Paddings) (WIP) (Started)
+    - Scrollable (No Toggles) (WIP)
+    - Normal (Static with Toggles) (WIP)
     - Fixed (Sticky)
     
 - Buttons
@@ -52,9 +52,8 @@ Ultra Lightweight CSS Framework
     - Font Arial
     - Font Sans-serif
     - Font serif
+    - Sticky (WIP) (Started)
+    - Dismissal (WIP) (Started)
+    - Background Fixed (WIP)
 
 - Sitewide Dark Mode
-
-- Dismissal
-- Sticky
-- Background Fixed
