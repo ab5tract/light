@@ -26,7 +26,9 @@ Ultra Lightweight CSS Framework
     - Col 3
     - Col 4
     - Col 6
-- Card
+    
+- Label
+
 - Image
     - Caption (Bottom)
     - Caption (Middle)

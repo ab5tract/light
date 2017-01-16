@@ -780,3 +780,12 @@ hr {
     border-radius: 3px;
     border: 1px solid #ccc;
 }
+
+
+/* Label */
+
+.label-light {
+    padding: 4px;
+    background: #bdbdbd;
+    font-size: small;
+}
