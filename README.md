@@ -54,3 +54,7 @@ Ultra Lightweight CSS Framework
     - Font serif
 
 - Sitewide Dark Mode
+
+- Dismissal
+- Sticky
+- Background Fixed
