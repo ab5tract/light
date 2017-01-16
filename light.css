@@ -431,6 +431,16 @@ nav ul li.brand {
         height: 100%;
         z-index: 12;
     }
+    .dark .nav-indicator {
+        background: -webkit-linear-gradient(right, #0a0a0a 0, rgba(255, 255, 255, 0));
+        background: linear-gradient(270deg, #0a0a0a 0, rgba(255, 255, 255, 0));
+        position: absolute;
+        right: 7.5%;
+        top: 0;
+        width: 25px;
+        height: 100%;
+        z-index: 12;
+    }
 }
 
 nav ul.float-right {
@@ -446,6 +456,10 @@ nav ul.float-right {
 
 nav ul li a[class*="btn"] {
     margin: 13px 0;
+}
+
+nav.dark {
+    background: #212121;
 }
 
 
