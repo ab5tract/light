@@ -3,7 +3,7 @@
 Ultra Lightweight CSS Framework, 3kb (Gzip).   
 Basic Web Components with no Javascript.
 
-> Warning! Project - Work In Progress.
+> Warning! Project - Work In Progress. Some classes, ids and selectors will may be rewrited.
 
 ## Install
 
@@ -49,6 +49,7 @@ Basic Web Components with no Javascript.
     
 - Label
     - One Color
+    - Dismissal
 
 - Image
     - Caption (Bottom)
