@@ -1,6 +1,7 @@
 # [Light](http://cquanu.github.io/light.css/)
 
 Ultra Lightweight CSS Framework.
+Basic web components with no Javascript.
 
 ## Install
 
