@@ -588,10 +588,6 @@ td {
 
 /* image */
 
-.image {
-    position: relative;
-}
-
 .caption-bottom {
     position: absolute;
     left: 0;
@@ -604,6 +600,7 @@ td {
 }
 
 .image-cover {
+    background: #666;
     position: relative;
     min-height: 100vh;
     background-repeat: no-repeat;
@@ -633,10 +630,12 @@ td {
 }
 
 .image-overlay-dark {
+    min-height: 100vh;
     background: rgba(0, 0, 0, .6);
 }
 
 .image-overlay-light {
+    min-height: 100vh;
     background: rgba(158, 158, 158, .6);
 }
 
