@@ -1,7 +1,9 @@
 # [Light](http://cquanu.github.io/light.css/)
 
-Ultra Lightweight CSS Framework.
-Basic web components with no Javascript.
+Ultra Lightweight CSS Framework, 3kb (Gzip).   
+Basic Web Components with no Javascript.
+
+> Warning! Project - Work In Progress.
 
 ## Install
 
@@ -11,7 +13,7 @@ Basic web components with no Javascript.
 
 ## Components / Todo List / Roadmap
 
-- Notice
+- Notice/Alerts/Toast
     - Dismissible
     - Sticky
     - Transparent
@@ -69,8 +71,8 @@ Basic web components with no Javascript.
     - Font Arial
     - Font Sans-serif
     - Font serif
-    - Sticky [WIP] (Started)
-    - Dismissal [WIP] (Started)
+    - Sticky (Started) [WIP] 
+    - Dismissal (Started) [WIP]
     - Background Fixed [WIP]
     
 - Modal
@@ -80,6 +82,7 @@ Basic web components with no Javascript.
     - Dismissal
 
 - Gallery/Carousel/Silder/Banner
+    - [WIP]
 
 - Sitewide Dark Mode
 
