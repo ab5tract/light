@@ -656,7 +656,7 @@ hr {
 }
 
 
-/* Coloured Background */
+/* Background */
 
 .bg-dark {
     background: #555;
@@ -664,7 +664,15 @@ hr {
 }
 
 .bg-light {
-    background: #f7f3f3;
+    background: #bdbdbd;
+}
+
+.bg-outline-dark {
+    border: 1px solid #555;
+}
+
+.bg-outline-light {
+    border: 1px solid #bdbdbd;
 }
 
 
