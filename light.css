@@ -747,6 +747,14 @@ hr {
     text-align: justify;
 }
 
+.font-sans-serif {
+    font-family: sans-serif;
+}
+
+.font-serif {
+    font-family: serif;
+}
+
 .no-radius {
     border-radius: 0;
 }

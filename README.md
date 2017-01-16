@@ -49,5 +49,8 @@ Ultra Lightweight CSS Framework
     - Text Center
     - Text Right
     - Text Justify
+    - Font Arial
+    - Font Sans-serif
+    - Font serif
 
 - Sitewide Dark Mode
