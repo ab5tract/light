@@ -778,6 +778,11 @@ hr {
 
 /* Form */
 
+input,
+textarea {
+    box-shadow: none;
+}
+
 .form-block * {
     display: block;
 }
