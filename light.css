@@ -549,7 +549,6 @@ td {
 
 .image {
     position: relative;
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
 .caption-bottom {
@@ -568,7 +567,6 @@ td {
     min-height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
 .caption-middle {
@@ -594,12 +592,10 @@ td {
 
 .image-overlay-dark {
     background: rgba(0, 0, 0, .6);
-    min-height: 100vh;
 }
 
 .image-overlay-light {
     background: rgba(255, 255, 255, .6);
-    min-height: 100vh;
 }
 
 
