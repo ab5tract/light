@@ -36,7 +36,7 @@ Basic Web Components with no Javascript.
     - Large (Big Paddings) (Started) [WIP]
     - Medium (Medium Paddings) (Started) [WIP]
     - Scrollable (No Toggles) [WIP]
-    - Normal (Static with Toggles) [WIP]
+    - Normal (Static with Toggles) (Dismissal) [WIP]
     - Fixed (Sticky)
     
 - Buttons
