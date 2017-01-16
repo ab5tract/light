@@ -72,6 +72,10 @@ Basic web components with no Javascript.
     - Sticky [WIP] (Started)
     - Dismissal [WIP] (Started)
     - Background Fixed [WIP]
+    
+- Modal
+
+- Gallery/Carousel/Silder/Banner
 
 - Sitewide Dark Mode
 
