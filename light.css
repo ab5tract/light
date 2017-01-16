@@ -704,3 +704,10 @@ hr {
 .float-right {
     float: right;
 }
+
+
+/* Form */
+
+.form-block * {
+    display: block;
+}
