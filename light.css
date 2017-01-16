@@ -711,3 +711,10 @@ hr {
 .form-block * {
     display: block;
 }
+
+.form-block > input,
+.form-block > textarea {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
