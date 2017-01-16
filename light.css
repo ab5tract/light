@@ -471,6 +471,7 @@ nav.dark {
 
 nav.dark a {
     color: #9e9e9e;
+    color: rgba(255, 255, 255, .6);
 }
 
 nav.dark ul li.brand {
