@@ -629,6 +629,7 @@ td {
     line-height: 1.34;
 }
 
+.caption-middle h1,
 .caption-middle h2,
 .caption-middle p {
     color: white;
