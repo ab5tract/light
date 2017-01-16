@@ -353,9 +353,6 @@ h6 {
 nav {
     list-style: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    white-space: nowrap;
-    overflow-y: auto;
-    overflow-x: scroll;
 }
 
 nav ul {
@@ -379,6 +376,14 @@ nav ul li.brand {
 
 ::-webkit-scrollbar {
     display: none;
+}
+
+.nav-container {
+    width: 88%;
+    margin: 0 auto;
+    white-space: nowrap;
+    overflow-y: auto;
+    overflow-x: scroll;
 }
 
 
