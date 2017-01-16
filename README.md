@@ -27,10 +27,10 @@ Ultra Lightweight CSS Framework
     - Outlined
 
 - Navbar
-    - Large (Big Paddings) (WIP) (Started)
-    - Medium (Medium Paddings) (WIP) (Started)
-    - Scrollable (No Toggles) (WIP)
-    - Normal (Static with Toggles) (WIP)
+    - Large (Big Paddings) [WIP] (Started)
+    - Medium (Medium Paddings) [WIP] (Started)
+    - Scrollable (No Toggles) [WIP]
+    - Normal (Static with Toggles) [WIP]
     - Fixed (Sticky)
     
 - Buttons
@@ -45,15 +45,17 @@ Ultra Lightweight CSS Framework
     - Col 6
     
 - Label
+    - One Color
 
 - Image
     - Caption (Bottom)
     - Caption (Middle)
     
-
-    
 - Table
     - Reponsive
+    
+- Form
+    - [WIP]
     
 - Footer
     - Normal
@@ -66,8 +68,8 @@ Ultra Lightweight CSS Framework
     - Font Arial
     - Font Sans-serif
     - Font serif
-    - Sticky (WIP) (Started)
-    - Dismissal (WIP) (Started)
-    - Background Fixed (WIP)
+    - Sticky [WIP] (Started)
+    - Dismissal [WIP] (Started)
+    - Background Fixed [WIP]
 
 - Sitewide Dark Mode
