@@ -577,6 +577,7 @@ td {
     transform: translate(-50%, -50%);
     bottom: inherit;
     text-align: center;
+    line-height: 1.25;
 }
 
 .caption-middle h2,
