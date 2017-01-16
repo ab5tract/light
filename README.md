@@ -6,7 +6,6 @@ Ultra Lightweight CSS Framework
 
 ```
 <link rel="stylesheet" href="light.css">
-    
 ```
 
 ## Components / Todo List / Roadmap
