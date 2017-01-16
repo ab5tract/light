@@ -413,15 +413,28 @@ nav ul li.brand {
     position: relative;
 }
 
-.nav-indicator {
-    background: -webkit-linear-gradient(right, #fff 0, rgba(255, 255, 255, 0));
-    background: linear-gradient(270deg, #fff 0, rgba(255, 255, 255, 0));
-    position: absolute;
-    right: 7%;
-    top: 0;
-    width: 25px;
-    height: 100%;
-    z-index: 12;
+@media (max-width: 650px) {
+    .nav-indicator {
+        background: -webkit-linear-gradient(right, #fff 0, rgba(255, 255, 255, 0));
+        background: linear-gradient(270deg, #fff 0, rgba(255, 255, 255, 0));
+        position: absolute;
+        right: 7.5%;
+        top: 0;
+        width: 25px;
+        height: 100%;
+        z-index: 12;
+    }
+}
+
+@media (max-width: 800px) {
+    ul.float-right {
+        float: none !important;
+        display: inline-block;
+    }
+}
+
+nav ul li a[class*="btn"] {
+    margin: 13px 0;
 }
 
 
@@ -640,4 +653,12 @@ hr {
 
 .full-radius {
     border-radius: 100px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
 }
