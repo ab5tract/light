@@ -98,3 +98,7 @@ Basic Web Components with no Javascript.
 - Check Margin Consistency
 - Check Padding Consistency
 - Fallback Fallback
+
+## Placeholder Images
+
+By [Unsplash] (https://unsplash.com/)
