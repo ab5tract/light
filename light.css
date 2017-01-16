@@ -426,6 +426,10 @@ nav ul li.brand {
     }
 }
 
+nav ul.float-right {
+    margin-left: 20px;
+}
+
 @media (max-width: 800px) {
     ul.float-right {
         float: none !important;
@@ -566,7 +570,7 @@ footer {
 .notice {
     padding: 10px;
     text-align: center;
-    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
     background: #eee;
 }
 
