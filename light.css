@@ -848,3 +848,15 @@ textarea {
     background: #e0e0e0;
     font-size: small;
 }
+
+
+/* Modal */
+
+.modal {
+    display: none;
+    padding: 15px;
+}
+
+#open-modal:target {
+    display: block;
+}
