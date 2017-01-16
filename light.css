@@ -544,7 +544,7 @@ td {
     position: relative;
 }
 
-.caption {
+.caption-bottom {
     position: absolute;
     left: 0;
     right: 0;
@@ -553,6 +553,25 @@ td {
     color: #fff;
     margin: 0;
     padding: 10px 0;
+}
+
+.image-cover {
+    position: relative;
+    min-height: 100vh;
+    background: url(https://source.unsplash.com/random/1400x800);
+    background-repeat: no-repeat;
+}
+
+.caption-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    bottom: inherit;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 2px #fff;
 }
 
 
