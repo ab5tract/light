@@ -561,6 +561,7 @@ td {
     min-height: 100vh;
     background: url(https://source.unsplash.com/random/1400x800);
     background-repeat: no-repeat;
+    background-position: center;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
