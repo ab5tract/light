@@ -595,3 +595,11 @@ hr {
 .no-radius {
     border-radius: 0;
 }
+
+.more-radius {
+    border-radius: 6px;
+}
+
+.full-radius {
+    border-radius: 100px;
+}
