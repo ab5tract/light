@@ -27,7 +27,8 @@ Ultra Lightweight CSS Framework
     - Outlined
 
 - Navbar
-    - Large (More Paddings) (WIP) (Started)
+    - Large (Big Paddings) (WIP) (Started)
+    - Medium (Medium Paddings) (WIP) (Started)
     - Scrollable (No Toggles) (WIP)
     - Normal (Static with Toggles) (WIP)
     - Fixed (Sticky)
