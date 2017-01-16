@@ -566,6 +566,10 @@ td {
     padding: 10px;
 }
 
+table.responsive-table {
+    overflow-x: auto;
+}
+
 
 /* image */
 
