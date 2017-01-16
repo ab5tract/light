@@ -74,9 +74,10 @@ Ultra Lightweight CSS Framework
 
 - Sitewide Dark Mode
 
----
+## Important
 
 - Check Font Consistency
 - Check Border Consistency
 - Check Margin Consistency
 - Check Padding Consistency
+- Fallback Fallback
