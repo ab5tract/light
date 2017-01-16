@@ -574,7 +574,7 @@ td {
     padding: 10px;
 }
 
-responsive-table {
+.responsive-table {
     overflow-x: auto;
 }
 
