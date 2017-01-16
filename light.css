@@ -537,3 +537,12 @@ hr {
 .bg-light {
     background: #f7f3f3;
 }
+
+
+/* Text */
+
+.text-header {
+    display: inline-block;
+    border-bottom: 2px solid #bdbdbd;
+    padding-bottom: 5px;
+}
