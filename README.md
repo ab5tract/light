@@ -11,7 +11,7 @@ Ultra Lightweight CSS Framework
     - Action
 - Grid
 - Card
-- Banner
+- image
 - Images
 - Sitewide Dark Mode
 - Footer
