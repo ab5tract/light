@@ -255,14 +255,15 @@ template {
 
 /* Global */
 
-*,
-*:before,
-*:after {
+html {
+    font-size: 16px;
     box-sizing: border-box;
 }
 
-html {
-    font-size: 16px;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
 body {
