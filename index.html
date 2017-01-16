@@ -75,13 +75,15 @@
         <h2>Basic Navbar</h2>
         <hr class="doc">
         <nav>
-            <ul>
-                <li class="brand">Brand Name</li>
-                <li><a href="#1">Home</a></li>
-                <li><a href="#2">About Us</a></li>
-                <li><a href="#3">Contact Us</a></li>
-                <li><a class="btn-dark" href="">Sign Up</a></li>
-            </ul>
+            <div class="nav-container">
+                <ul>
+                    <li class="brand">Brand Name</li>
+                    <li><a href="#1">Home</a></li>
+                    <li><a href="#2">About Us</a></li>
+                    <li><a href="#3">Contact Us</a></li>
+                    <li><a class="btn-dark" href="">Sign Up</a></li>
+                </ul>
+            </div>
         </nav>
 
         <xmp>
@@ -113,8 +115,16 @@
         <!-- Basic Grid -->
         <h2>Basic Grid</h2>
         <div class="row">
-            <div class="col-6">.col-6</div>
-            <div class="col-6">.col-6</div>
+            <div class="col-6">
+                <div class="bg-dark">
+                    .col-6
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="bg-dark">
+                    .col-6
+                </div>
+            </div>
         </div>
 
         <!-- Table -->
@@ -125,16 +135,25 @@
                 <th>Header 1</th>
                 <th>Header 2</th>
                 <th>Header 3</th>
+                <th>Header 4</th>
             </tr>
             <tr>
                 <td>Description 1</td>
                 <td>Description 2</td>
                 <td>Description 3</td>
+                <td>Description 4</td>
             </tr>
             <tr>
                 <td>Description 1</td>
                 <td>Description 2</td>
                 <td>Description 3</td>
+                <td>Description 4</td>
+            </tr>
+            <tr>
+                <td>Description 1</td>
+                <td>Description 2</td>
+                <td>Description 3</td>
+                <td>Description 4</td>
             </tr>
         </table>
 
@@ -144,7 +163,7 @@
         <div class="row">
             <div class="col-6">
                 <div class="banner">
-                    <img class="responsive" src="https://source.unsplash.com/random/1400x800" alt="Image">
+                    <img class="responsive" src="https://source.unsplash.com/random/800x600" alt="Image">
                     <div class="caption">
                         <div class="container">
                             Description of this image.
@@ -154,7 +173,7 @@
             </div>
             <div class="col-6">
                 <div class="banner">
-                    <img class="responsive" src="https://source.unsplash.com/category/nature/1400x800" alt="Image">
+                    <img class="responsive" src="https://source.unsplash.com/category/nature/800x600" alt="Image">
                     <div class="caption">
                         <div class="container">
                             Description of this image.
