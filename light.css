@@ -859,7 +859,11 @@ textarea {
 
 #open-modal:target {
     display: block;
-    width: auto;
+    width: 600px;
     height: auto;
     border: 1px solid rgba(0, 0, 0, .2);
+    position: absolute;
+    margin: auto;
+    background: #fff;
+    z-index: 100;
 }
