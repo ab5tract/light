@@ -358,6 +358,7 @@ h6 {
 nav {
     list-style: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: relative;
 }
 
 nav ul {
@@ -389,6 +390,18 @@ nav ul li.brand {
     white-space: nowrap;
     overflow-y: auto;
     overflow-x: scroll;
+    position: relative;
+}
+
+.nav-indicator {
+    background: -webkit-linear-gradient(right, #fff 0, rgba(255, 255, 255, 0));
+    background: linear-gradient(270deg, #fff 0, rgba(255, 255, 255, 0));
+    position: absolute;
+    right: 7%;
+    top: 0;
+    width: 25px;
+    height: 100%;
+    z-index: 12;
 }
 
 
