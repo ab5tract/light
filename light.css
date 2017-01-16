@@ -381,7 +381,15 @@ h6 {
 }
 
 
-/* Navbar */
+/* Rewrite Navbar (Reponsive) */
+
+.nav {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+
+/* Navbar (Old) (Scrollable) */
 
 nav {
     list-style: none;

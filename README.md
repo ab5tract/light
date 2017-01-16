@@ -35,8 +35,8 @@ Basic Web Components with no Javascript.
 - Navbar
     - Large (Big Paddings) (Started) [WIP]
     - Medium (Medium Paddings) (Started) [WIP]
-    - Scrollable (No Toggles) [WIP]
-    - Normal (Static with Toggles) (Dismissal) [WIP]
+    - Scrollable (No Toggle) [WIP]
+    - Normal (Static with Toggle) (Dismissal/Checkbox) [WIP]
     - Fixed (Sticky)
     
 - Buttons
