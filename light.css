@@ -855,18 +855,18 @@ textarea {
 
 .modal {
     display: none;
-    padding: 15px;
 }
 
 #open-modal:target {
     display: block;
-    width: 600px;
+    min-width: 100;
     height: auto;
     border: 1px solid rgba(0, 0, 0, .2);
     position: absolute;
     margin: auto;
     background: #fff;
     z-index: 100;
+    padding: 15px;
 }
 
 #open-modal:before {
