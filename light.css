@@ -641,9 +641,15 @@ hr {
 
 /*  Texts */
 
-.text-header {
+.short-header {
     display: table;
-    border-bottom: 2px solid #bdbdbd;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.long-header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
