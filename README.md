@@ -10,6 +10,22 @@ Ultra Lightweight CSS Framework
 
 ## Components / Todo List / Roadmap
 
+- Notice
+    - Dismissible
+    - Sticky
+    - Transparent
+    - Large (Same size as navbar)
+    
+- Colors
+    - Dark
+    - Light
+    - Transparent
+    
+- Background
+    - Dark
+    - Faded (to be rename from light)
+    - Outlined
+
 - Navbar
     - Large (More Paddings) (WIP) (Started)
     - Scrollable (No Toggles) (WIP)
@@ -33,10 +49,7 @@ Ultra Lightweight CSS Framework
     - Caption (Bottom)
     - Caption (Middle)
     
-- Background
-    - Dark
-    - Faded
-    - Outlined
+
     
 - Table
     - Reponsive
