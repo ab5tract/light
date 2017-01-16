@@ -459,6 +459,13 @@ a[class*="btn"] {
     padding-right: 20px;
 }
 
+@media (max-width: 460px) {
+    .col-6 {
+        float: none;
+        width: 100%;
+    }
+}
+
 
 /* Table */
 
