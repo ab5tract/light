@@ -74,12 +74,19 @@ Basic web components with no Javascript.
     - Background Fixed [WIP]
     
 - Modal
+    - Popover
+    - Overlay
+    - DiDismissal
 
 - Gallery/Carousel/Silder/Banner
 
 - Sitewide Dark Mode
 
 ## Important
+
+- Master Group (Notify Function)
+    - Modal
+    - Notice
 
 - Check Font Consistency
 - Check Border Consistency
