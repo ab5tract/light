@@ -443,6 +443,10 @@ nav ul li.brand {
     }
 }
 
+.container .nav-indicator {
+    display: none;
+}
+
 nav ul.float-right {
     margin-left: 20px;
 }
