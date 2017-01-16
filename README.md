@@ -97,12 +97,12 @@ Basic Web Components with no Javascript.
     - Notice
     - (Dismissing any dismissible item will dismiss all at the same time)
 
-
-- Check Font Consistency
-- Check Border Consistency
-- Check Margin Consistency
-- Check Padding Consistency
-- Fallback Fallback Fallback
+- Check Consistency
+    - Font
+    - Border
+    - Margin
+    - Padding
+    - Fallback Fallback Fallback
 
 ## Placeholder Images
 
