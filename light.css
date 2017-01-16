@@ -492,7 +492,7 @@ a[class*="btn"] {
 
 .btn-dark {
     padding: 6px 14px;
-    border: 1px solid rgba(0, 0, 0, .2);
+    border: 1px solid transparent;
     border-radius: 3px;
     background: #333;
     color: white;
@@ -501,7 +501,7 @@ a[class*="btn"] {
 
 .btn-action {
     padding: 6px 14px;
-    border: 1px solid rgba(0, 0, 0, .2);
+    border: 1px solid transparent;
     border-radius: 3px;
     background: #1976d2;
     color: white;
