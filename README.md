@@ -73,3 +73,10 @@ Ultra Lightweight CSS Framework
     - Background Fixed [WIP]
 
 - Sitewide Dark Mode
+
+---
+
+- Check Font Consistency
+- Check Border Consistency
+- Check Margin Consistency
+- Check Padding Consistency
