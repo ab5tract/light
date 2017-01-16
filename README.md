@@ -10,6 +10,9 @@ Basic Web Components with no Javascript.
 ```
 <link rel="stylesheet" href="light.css">
 ```
+```
+<link rel="stylesheet" href="light.min.css">
+```
 
 ## Components / Todo List / Roadmap
 
@@ -92,13 +95,13 @@ Basic Web Components with no Javascript.
 - Master Group (Notify Function)
     - Modal
     - Notice
-    - (Dismissing all one dismissible item will dismiss all at the same time)
+    - (Dismissing any dismissible item will dismiss all at the same time)
 
 - Check Font Consistency
 - Check Border Consistency
 - Check Margin Consistency
 - Check Padding Consistency
-- Fallback Fallback
+- Fallback Fallback Fallback
 
 ## Placeholder Images
 
