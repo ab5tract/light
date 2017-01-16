@@ -1,12 +1,16 @@
-.header {
+.doc .header {
     padding: 30px 0;
     margin-bottom: 20px;
     border-bottom: 1px solid rgba(0, 0, 0, .2);
     background: #f7f7f7;
 }
 
-hr.doc {
-    margin: 0;
+.doc .text-header {
+    margin-top: 20px;
+}
+
+.doc [class*="bg-"] {
+    padding: 20px;
 }
 
 xmp {
