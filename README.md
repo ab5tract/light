@@ -1,4 +1,4 @@
-# [Light](http://cquanu.github.io/light.css/)
+# [Light](https://cquanu.github.io/light/)
 
 Ultra Lightweight CSS Framework, 3kb (Gzip).   
 Basic Web Components with no Javascript.
