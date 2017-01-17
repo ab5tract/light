@@ -29,7 +29,7 @@ Basic Web Components with no Javascript.
 - Background
     - Dark
     - Light
-    - Translucent (Added Faded)
+    - Translucent (Add Faded)
     - Outlined
 
 - Navbar
