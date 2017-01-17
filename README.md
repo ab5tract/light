@@ -1,7 +1,8 @@
 # [Light](https://cquanu.github.io/light/)
 
 Ultra Lightweight CSS Framework, 3kb (Gzip).   
-Basic Web Components with no Javascript.
+Basic Web Components with no Javascript.   
+Currently alpha-v0.1.0.   
 
 > Warning! Project - Work In Progress. Some classes, ids and selectors will may be rewrited.
 
