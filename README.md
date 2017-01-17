@@ -45,6 +45,7 @@ Basic Web Components with no Javascript.
     - Light
     - Dark
     - Action
+    - Outlined (WIP)
     - With utilities
         
 - Grid
