@@ -927,6 +927,10 @@ textarea {
 
 /* Menu */
 
+.middle {
+    width: 85%;
+}
+
 a.menu-button {
     position: absolute;
     top: 30px;
@@ -944,17 +948,10 @@ a.menu-button:hover {
     background: #fff;
 }
 
-
-/* Menu Modal */
-
-.middle {
-    width: 85%;
-}
-
-a.menu {
+a.menu-link {
     font-size: 3.2rem;
     font-weight: 500;
-    color: #000;
+    color: #444;
 }
 
 #open-menu:target {
