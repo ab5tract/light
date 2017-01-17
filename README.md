@@ -17,19 +17,19 @@ Basic Web Components with no Javascript.
 ## Components / Todo List / Roadmap
 
 - Notice/Alerts/Toast
-    - Dismissible
+    - Dismissible (Fix Padding)
     - Sticky
-    - Transparent
-    - Large (Same size as navbar)
+    - Transparent (Add Faded)
+    - Large (More Padding)
     
 - Colors
     - Dark
     - Light
-    - Transparent
     
 - Background
     - Dark
-    - Faded (to be rename from light)
+    - Light
+    - Translucent (Added Faded)
     - Outlined
 
 - Navbar
@@ -46,19 +46,21 @@ Basic Web Components with no Javascript.
     - With utilities
         
 - Grid
-    - Col 3
-    - Col 4
-    - Col 6
+    - Col 3 (Testing)
+    - Col 4 (Testing)
+    - Col 6 (Testing)
+    - (Flexbox Grid)
     
 - Label
     - One Color
-    - Dismissal
+    - Dismissal (Not Coming ATS)
 
 - Image
     - Caption (Bottom)
     - Caption (Middle)
     
 - Table
+    - Full Width (Get rid from default)
     - Reponsive
     
 - Form
@@ -66,6 +68,7 @@ Basic Web Components with no Javascript.
     
 - Footer
     - Normal
+    - Dark (Show Example)
     
 - Utilities
     - Text Left
@@ -77,18 +80,16 @@ Basic Web Components with no Javascript.
     - Font serif
     - Sticky (Started) [WIP] 
     - Dismissal (Started) [WIP]
-    - Background Fixed [WIP]
+    - Fixed Background [WIP]
     
 - Modal
+    - Full Size (Default)
     - Popover
     - Overlay
-    - Full Size (Default)
     - Dismissal
 
 - Gallery/Carousel/Silder/Banner
     - [WIP]
-
-- Sitewide Dark Mode
 
 ## Important
 
@@ -102,6 +103,7 @@ Basic Web Components with no Javascript.
     - Border
     - Margin
     - Padding
+    - Z-Index
     - Fallback Fallback Fallback
 
 ## Placeholder Images
