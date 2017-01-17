@@ -581,7 +581,7 @@ a[class*="btn"] {
     padding-right: 16px;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 420px) {
     .col-3 {
         float: none;
         width: 100%;
