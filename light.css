@@ -558,29 +558,29 @@ a[class*="btn"] {
 /* Grid */
 
 .row {
-    margin-left: -16px;
-    margin-right: -16px;
+    margin-left: -14px;
+    margin-right: -14px;
 }
 
 .col-3 {
     float: left;
     width: 25%;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 14px;
+    padding-right: 14px;
 }
 
 .col-4 {
     float: left;
     width: 33.3333333%;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 14px;
+    padding-right: 14px;
 }
 
 .col-6 {
     float: left;
     width: 50%;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 14px;
+    padding-right: 14px;
 }
 
 @media (max-width: 420px) {
