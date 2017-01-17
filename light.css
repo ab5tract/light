@@ -856,6 +856,7 @@ textarea {
     padding: 4px 8px;
     background: #e0e0e0;
     font-size: small;
+    position: relative;
 }
 
 
