@@ -838,6 +838,10 @@ hr {
     line-height: 1.6;
 }
 
+.wide {
+    width: 85%;
+}
+
 
 /* Form */
 
@@ -881,12 +885,9 @@ textarea {
     right: 0;
     bottom: 0;
     left: 0;
-    height: auto;
-    border: 1px solid rgba(0, 0, 0, .2);
-    margin: auto;
     background: #fff;
     z-index: 100;
-    padding: 15px;
+    padding: 10px 30px;
 }
 
 .modal .dismissal {
@@ -947,17 +948,13 @@ a.menu-button:hover {
 
 a.menu-link {
     font-size: 3.2rem;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
     font-weight: 500;
     color: #444;
 }
 
 a.menu-link:hover {
     text-decoration: underline;
-}
-
-.wide {
-    width: 85%;
 }
 
 #open-menu:target {
@@ -969,7 +966,7 @@ a.menu-link:hover {
     left: 0;
     background: #fff;
     z-index: 100;
-    padding: 15px;
+    padding: 10px 30px;
 }
 
 .dismissal:hover {
