@@ -2,6 +2,10 @@
     width: 80%;
 }
 
+h3:first-of-type {
+    margin-top: 20px;
+}
+
 .doc h3 {
     font-size: 2rem;
 }
