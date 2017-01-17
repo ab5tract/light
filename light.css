@@ -18,7 +18,8 @@
  * 6. Table
  * 7. Notice
  * 8. Navbars
- * -. Etc
+ * 9. Menu
+ * 10. Etc
 */
 
 
@@ -621,18 +622,7 @@ td {
 }
 
 
-/* image */
-
-.caption-bottom {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.6);
-    color: #fff;
-    margin: 0;
-    padding: 10px 0;
-}
+/* Image */
 
 .image-cover {
     background: #666;
@@ -664,6 +654,20 @@ td {
     padding: 25px;
     border-radius: 5px;
 }
+
+.caption-bottom {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    margin: 0;
+    padding: 10px 0;
+}
+
+
+/* Image Overlays  */
 
 .image-overlay-dark {
     min-height: 100vh;
