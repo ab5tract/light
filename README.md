@@ -4,7 +4,7 @@ Ultra Lightweight CSS Framework, 3kb (Gzip).
 Basic Web Components with no Javascript.   
 Currently v0.1.0-alpha.  
 
-> Warning! Project - Work In Progress. Some classes, ids and selectors will may be rewrited.
+> Warning! Project - Work In Progress. Some classes, ids and selectors may be rewrited.
 
 ## Install
 
