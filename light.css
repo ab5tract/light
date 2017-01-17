@@ -927,10 +927,6 @@ textarea {
 
 /* Menu */
 
-.middle {
-    width: 85%;
-}
-
 a.menu-button {
     position: absolute;
     top: 30px;
@@ -950,8 +946,17 @@ a.menu-button:hover {
 
 a.menu-link {
     font-size: 3.2rem;
+    padding-bottom: 15px;
     font-weight: 500;
     color: #444;
+}
+
+a.menu-link:hover {
+    text-decoration: underline;
+}
+
+.wide {
+    width: 85%;
 }
 
 #open-menu:target {
@@ -961,8 +966,6 @@ a.menu-link {
     right: 0;
     bottom: 0;
     left: 0;
-    height: auto;
-    margin: auto;
     background: #fff;
     z-index: 100;
     padding: 15px;
@@ -976,9 +979,10 @@ a.menu-link {
     height: 30px;
     margin: 10px 0;
     border-radius: 50%;
-    border: 1px solid #9e9e9e;
-    color: #9e9e9e;
+    border: 1px solid rgba(0, 0, 0, .4);
+    color: rgba(0, 0, 0, .4);
     font-size: 15px;
+    text-decoration: none;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -990,5 +994,4 @@ a.menu-link {
     -ms-flex-align: center;
     align-items: center;
     cursor: pointer;
-    text-decoration: none;
 }
