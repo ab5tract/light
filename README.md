@@ -38,6 +38,7 @@ Basic Web Components with no Javascript.
     - Scrollable (No Toggles) [WIP]
     - Normal (Static with Toggles) [WIP]
     - Fixed (Sticky)
+    - (Background Colors) [WIP]
     
 - Buttons
     - Light
