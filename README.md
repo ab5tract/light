@@ -14,7 +14,7 @@ Basic Web Components with no Javascript.
 <link rel="stylesheet" href="light.min.css">
 ```
 
-## Better Documentation
+## Better Documentation / Demo
 
 - Help needed
 
