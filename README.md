@@ -8,9 +8,11 @@ Currently v0.1.0-alpha.
 
 ## Install
 
+Original Version
 ```
 <link rel="stylesheet" href="light.css">
 ```
+Minified Version
 ```
 <link rel="stylesheet" href="light.min.css">
 ```
@@ -19,14 +21,23 @@ Currently v0.1.0-alpha.
 
 - Help needed
 
-## Components / Todo List / Roadmap
+## Components / Todo List / Features
 
-- Notice/Alerts/Toast
-    - Dismissible (Fix Padding)
-    - Sticky
-    - Transparent (Add Faded)
-    - Large (More Padding)
-    
+- Grid
+    - Col 3 (Testing)
+    - Col 4 (Testing)
+    - Col 6 (Testing)
+    - (Flexbox Grid)
+
+- Buttons
+    - Light
+    - Dark
+    - Action
+    - Outlined (WIP)
+    - With utilities
+
+
+
 - Colors
     - Dark
     - Light
@@ -37,27 +48,22 @@ Currently v0.1.0-alpha.
     - Translucent (Add Faded)
     - Outlined
 
-- Navbar
-    - Large (Big Paddings) (Started) [WIP]
-    - Medium (Medium Paddings) (Started) [WIP]
-    - Scrollable (No Toggles) [WIP]
-    - Normal (Static with Toggles) [WIP]
-    - Fixed (Sticky)
-    - Scrollable Indicator (Removeable)
-    - (Background Colors) [WIP]
+- Notice
+    - Sticky
+    - Dismissible
+    - Translucent (Add Faded)
+    - Large (More Padding)
     
-- Buttons
-    - Light
-    - Dark
-    - Action
-    - Outlined (WIP)
-    - With utilities
-        
-- Grid
-    - Col 3 (Testing)
-    - Col 4 (Testing)
-    - Col 6 (Testing)
-    - (Flexbox Grid)
+- Menu (Started)
+    - (Need Add Example)
+
+- Navbar
+    - Normal (Default)
+    - Large
+    - Medium
+    - Scrollable
+    - Scrollable Indicator (Rework Needed)
+    - (Background Colors) [WIP]
     
 - Label
     - One Color
@@ -76,7 +82,7 @@ Currently v0.1.0-alpha.
     
 - Footer
     - Normal
-    - Dark (Show Example)
+    - Dark (Need Add Example)
     
 - Utilities
     - Text Left
@@ -85,10 +91,11 @@ Currently v0.1.0-alpha.
     - Text Justify
     - Font Arial
     - Font Sans-serif
-    - Font serif
+    - Font Serif
     - Sticky (Started) [WIP] 
     - Dismissal (Started) [WIP]
     - Fixed Background [WIP]
+    - Min Height (Viewport) [WIP]
     
 - Modal
     - Full Size (Default)
@@ -102,9 +109,11 @@ Currently v0.1.0-alpha.
 ## Important
 
 - Master Group (Notify Function)
-    - Modal
     - Notice
-    - (Dismissing any dismissible item will dismiss all at the same time)
+    - Modal
+    - Menu
+    - Navbar
+(Dismissing any dismissible item will dismiss all at the same time)
 
 - Check Consistency
     - Font
@@ -113,6 +122,8 @@ Currently v0.1.0-alpha.
     - Padding
     - Z-Index
     - Fallback Fallback Fallback
+    
+- Track Z-Index
 
 ## Placeholder Images
 
