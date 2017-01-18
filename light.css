@@ -845,6 +845,14 @@ hr {
 }
 
 
+/* Special */
+
+.dark {
+    background: #212121;
+    color: #e0e0e0;
+}
+
+
 /* Form */
 
 input,
