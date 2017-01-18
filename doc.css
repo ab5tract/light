@@ -32,8 +32,6 @@ h3 {
     min-height: 100vh;
 }
 
-xmp {
-    background: #eee;
-    border-left: 2px solid #69c;
-    overflow: auto;
+nav:first-of-type {
+    border-top: 1px solid rgba(0, 0, 0, .2);
 }
