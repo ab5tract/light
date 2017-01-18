@@ -435,7 +435,7 @@ nav ul li a {
 
 #dropnav:target {
     display: block;
-    background: #fff;
+    background: rgba(255, 255, 255, .6);
 }
 
 .dropnav ul {
@@ -455,23 +455,7 @@ nav ul li a {
 }
 
 
-/* Scrollable Navbar */
-
-.nav-container {
-    width: 85%;
-    margin: 0 auto;
-    white-space: nowrap;
-    overflow-y: auto;
-    overflow-x: scroll;
-    position: relative;
-}
-
-.nav-container::-webkit-scrollbar {
-    display: none;
-}
-
-
-/* Dropnav Button */
+/* Dropnav Buttons */
 
 .dropnav-button {
     display: inline-block;
@@ -500,6 +484,22 @@ nav ul li a {
     height: 1px;
     width: 20px;
     background: rgba(0, 0, 0, 0.6);
+}
+
+
+/* Scrollable Navbar */
+
+.nav-container {
+    width: 85%;
+    margin: 0 auto;
+    white-space: nowrap;
+    overflow-y: auto;
+    overflow-x: scroll;
+    position: relative;
+}
+
+.nav-container::-webkit-scrollbar {
+    display: none;
 }
 
 
