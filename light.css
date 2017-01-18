@@ -410,7 +410,7 @@ h6 {
     padding-right: 14px;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 425px) {
     .col-3 {
         float: none;
         width: 100%;
