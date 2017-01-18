@@ -551,8 +551,8 @@ nav ul li.brand {
 }
 
 nav ul li a[class*="btn"] {
-    margin: 10px 0;
-    padding: 4px 12px;
+    margin: 12px 0;
+    padding: 2px 12px;
     border: 1px solid rgba(0, 0, 0, .3);
 }
 
