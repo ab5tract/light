@@ -486,6 +486,45 @@ nav ul li a[class*="btn"] {
 }
 
 
+/* Rewrite Navbar */
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    padding: 15px 15px 15px 0;
+}
+
+
+/* Dropnav */
+
+.dropnav {
+    display: none;
+}
+
+#dropnav:target {
+    display: block;
+    background: #fff;
+}
+
+.dropnav ul {
+    list-style: none;
+}
+
+.dropnav ul li {
+    float: left;
+}
+
+.dropnav ul li a {
+    padding: 10px 15px 10px 0;
+}
+
+
 /* Navbar Dark */
 
 nav.dark {

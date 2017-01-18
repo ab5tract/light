@@ -12,36 +12,26 @@
 </head>
 
 <body>
-    <!-- Dismissible Notice with Sticky -->
-    <div id="dismiss" class="notice sticky text-left">
-        <div class="container">
-            Hello, I'm a sticky dismissible notice.
-        </div>
-        <a href="#dismiss" class="dismissal">X</a>
-    </div>
-
-    <!-- Normal Notice -->
-    <div class="notice text-left">
-        <div class="container">
-            I'm a normal notice. <a href="/light/">Go Back</a>
-        </div>
-    </div>
-
     <!-- Navbar -->
-    <nav class="dark medium">
-        <div class="nav-container">
-            <ul class="float-left">
-                <li class="brand">Website Name</li>
-                <li><a href="#1">Home</a></li>
-                <li><a href="#2">Product & Services</a></li>
-                <li><a href="#3">Contact Us</a></li>
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#">Website Name</a></li>
             </ul>
-            <ul class="float-right">
-                <li><a href="#4">Login</a></li>
-                <li><a class="btn-action" href="#5">Sign Up</a></li>
+            <ul style="float:right">
+                <li><a class="btn-dark" href="#dropnav">More</a></li>
             </ul>
         </div>
-        <div class="nav-indicator"></div>
+    </nav>
+    <nav id="dropnav" class="dropnav">
+        <div class="nav-container">
+            <ul>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
     </nav>
 
     <div class="image-cover" style="background: url(https://source.unsplash.com/random/1400x800)">
