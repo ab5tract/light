@@ -475,7 +475,7 @@ nav ul li a {
 
 .dropnav-button:before {
     content: "";
-    top: -8px;
+    top: -6px;
     display: inline-block;
     position: absolute;
     height: 1px;
@@ -485,7 +485,7 @@ nav ul li a {
 
 .dropnav-button:after {
     content: "";
-    top: 8px;
+    top: 6px;
     display: inline-block;
     position: absolute;
     height: 1px;
