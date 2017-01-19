@@ -18,7 +18,8 @@
             <ul>
                 <li class="brand"><a href="demo">Website Name</a></li>
             </ul>
-            <ul style="float:right">
+            <ul class="navbar-right">
+                <li><a class="btn-light" href="#open-menu"><span class="dropnav-button"></span></a></li>
                 <li><a class="btn-light" href="#dropnav"><span class="dropnav-button"></span></a></li>
             </ul>
         </div>
@@ -56,13 +57,6 @@
                 <p class="text-justify">Lorem ipsum morbi euismod faucibus orci, quis tristique sapien scelerisque id. Curabitur molestie sapien eu justo molestie placerat. Cras interdum erat ut ligula fermentum ornare. Sed eu purus fringilla, convallis erat sit amet, mattis sapien. Nunc fringilla vehicula sapien, a imperdiet purus porta vel. Phasellus dictum lorem vel ligula imperdiet, at rutrum orci imperdiet. Sed ipsum magna, aliquam non mauris nec, dictum molestie ligula. <span class="label">Featured</span></p>
 
                 <a class="btn-dark" href="#open-modal">Open Modal</a>
-
-                <div id="open-modal" class="modal">
-                    <a href="#dismiss" class="dismissal">X</a>
-                    <h4>Modal Header</h4>
-                    <p>Lorem ipsum morbi euismod faucibus orci, quis tristique sapien scelerisque id. Curabitur molestie sapien eu justo molestie placerat. Cras interdum erat ut ligula fermentum ornare. Sed eu purus fringilla, convallis erat sit amet, mattis sapien. Nunc fringilla vehicula sapien, a imperdiet purus porta vel. Phasellus dictum lorem vel ligula imperdiet, at rutrum orci imperdiet. Sed ipsum magna, aliquam non mauris nec, dictum molestie ligula.</p>
-                    <a class="btn-dark" href="#dismiss">Close Modal</a>
-                </div>
             </div>
             <div class="col-6">
                 <h2 class="long-header">News</h2>
@@ -95,6 +89,37 @@
             Copyright &copy; 2017 Light.
         </div>
     </footer>
+
+    <!-- Menu Modal Demo -->
+    <div id="open-menu" class="modal">
+        <a href="#dismiss" class="dismissal">X</a>
+
+        <div class="container">
+            <div class="middle wide">
+                <div class="row">
+                    <div class="col-4">
+                        <a class="menu-link" href="#menu">About</a>
+                    </div>
+                    <div class="col-4">
+                        <a class="menu-link" href="#menu">Products</a>
+                    </div>
+                    <div class="col-4">
+                        <a class="menu-link" href="#menu">Contact</a>
+                    </div>
+                </div>
+                <p class="text-center">This is a menu demo.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal Demo -->
+    <div id="open-modal" class="modal">
+        <a href="#dismiss" class="dismissal">X</a>
+        <h4>Modal Header</h4>
+        <p>Lorem ipsum morbi euismod faucibus orci, quis tristique sapien scelerisque id. Curabitur molestie sapien eu justo molestie placerat. Cras interdum erat ut ligula fermentum ornare. Sed eu purus fringilla, convallis erat sit amet, mattis sapien. Nunc fringilla vehicula sapien, a imperdiet purus porta vel. Phasellus dictum lorem vel ligula imperdiet, at rutrum orci imperdiet. Sed ipsum magna, aliquam non mauris nec, dictum molestie ligula.</p>
+        <a class="btn-dark" href="#dismiss">Close Modal</a>
+    </div>
 
     <!-- Google Analytics -->
     <script>

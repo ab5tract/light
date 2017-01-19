@@ -589,6 +589,14 @@ nav ul li a[class*="btn"] {
     display: flex;
 }
 
+.navbar-right {
+    float: right;
+}
+
+.navbar-right li {
+    margin-left: 5px;
+}
+
 
 /* Buttons */
 
