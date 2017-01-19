@@ -493,6 +493,36 @@ nav ul li a {
 .dropnav-button {
     display: inline-block;
     position: relative;
+    height: 2px;
+    width: 2px;
+    background: rgba(0, 0, 0, 0.35);
+    vertical-align: middle;
+}
+
+.dropnav-button:before {
+    content: "";
+    top: -6px;
+    display: inline-block;
+    position: absolute;
+    height: 2px;
+    width: 2px;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+.dropnav-button:after {
+    content: "";
+    top: 6px;
+    display: inline-block;
+    position: absolute;
+    height: 2px;
+    width: 2px;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+
+/*.dropnav-button {
+    display: inline-block;
+    position: relative;
     height: 1px;
     width: 20px;
     background: rgba(0, 0, 0, 0.3);
@@ -517,7 +547,7 @@ nav ul li a {
     height: 1px;
     width: 20px;
     background: rgba(0, 0, 0, 0.3);
-}
+}*/
 
 
 /* Scrollable Navbar */
@@ -552,8 +582,11 @@ nav ul li.brand {
 
 nav ul li a[class*="btn"] {
     margin: 12px 0;
-    padding: 2px 12px;
+    padding: 12px 14px;
     border: 1px solid rgba(0, 0, 0, .3);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 
