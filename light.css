@@ -709,6 +709,20 @@ footer {
     clear: both;
 }
 
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li {
+    margin-left: 30px;
+}
+
+footer ul li.brand {
+    margin-left: 0;
+}
+
 
 /* Notice */
 
