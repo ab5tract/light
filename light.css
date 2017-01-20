@@ -760,6 +760,10 @@ footer {
     background: #e0e0e0;
 }
 
+.warning {
+    background: #fff8e1;
+}
+
 .bg-outline-dark {
     border: 1px solid #555;
 }
