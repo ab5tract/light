@@ -612,7 +612,37 @@ td {
 }
 
 
-/* Image */
+/* Image & Caption */
+
+.image-group {
+    position: relative;
+}
+
+.image-group img {
+    max-width: 100%;
+    height: auto;
+}
+
+.caption-overlay {
+    display: none;
+}
+
+.image-group:hover .caption-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 3px;
+    padding: 10px 15px;
+    color: white;
+    background: rgba(0, 0, 0, 0.68);
+    width: 60%;
+    bottom: inherit;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    line-height: 1.6;
+    display: block;
+}
 
 .image-cover {
     background: #666;
