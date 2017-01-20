@@ -752,7 +752,7 @@ footer {
 /* Background */
 
 .bg-dark {
-    background: #555;
+    background: #424242;
     color: snow;
 }
 
@@ -870,7 +870,7 @@ hr {
 /* Special */
 
 .dark {
-    background: #414141;
+    background: #424242;
     color: #e0e0e0;
 }
 
