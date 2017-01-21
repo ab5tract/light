@@ -895,22 +895,24 @@ hr {
 }
 
 
-/* Form */
+/* Forms */
 
 input,
 textarea {
     box-shadow: none;
 }
 
-.form-block * {
+form .group * {
     display: block;
+    margin-bottom: 5px;
 }
 
-.form-block > input,
-.form-block > textarea {
+form .group > input,
+form .group > textarea {
     padding: 5px;
     border-radius: 3px;
-    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, .2);
+    min-width: 250px;
 }
 
 
